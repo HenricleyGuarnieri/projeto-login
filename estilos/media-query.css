@@ -10,7 +10,7 @@ Grandes telas: acima de 1200px
 
 */
 
-@media screen and (min-width: 768px) and (max-width: 992px) { /* CONFIGURAÇÃO PARA TABLET */
+@media screen and (min-width: 992px) and (max-width: 1200px) { /* CONFIGURAÇÃO PARA TABLET */
     
     body {
         background-image: linear-gradient(to top, #49a09d, #5f2c82);
@@ -34,7 +34,7 @@ Grandes telas: acima de 1200px
     
 }
 
-@media screen and (min-width: 992px) { /* CONFIGURAÇÕES PARA DESKTOP */
+@media screen and (min-width: 1200px) { /* CONFIGURAÇÕES PARA DESKTOP */
     
     body { 
         background-image: linear-gradient(to top, #49a09d, #5f2c82);
