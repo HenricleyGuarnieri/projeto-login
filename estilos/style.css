@@ -1,5 +1,5 @@
 @charset "UTF-8";
-
+@media only screen and (max-width: 600px) {
 /* 
     Paleta de cores
     Verde: #49a09ad4
@@ -140,4 +140,5 @@ form > a.botao:hover {
 
 form > a.botao > span {
     font-size: 0.8em;
+}
 }
