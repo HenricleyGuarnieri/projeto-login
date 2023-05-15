@@ -95,7 +95,7 @@ div.campo > span {
     color: white;
     font-size: 2em;
     width: 40px;
-    padding: 5px;
+    padding: 1px;
 }
 
 div.campo > input {
@@ -107,7 +107,7 @@ div.campo > input {
     border: 0px;
     border-radius: 8px;
     padding: 4px;
-    transform: translateY(-37%);
+    transform: translateY(-23%);
 } 
 
 div.campo > input:focus-within {
